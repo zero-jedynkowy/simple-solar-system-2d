@@ -1,6 +1,8 @@
 ## Description
 
-![video](readme-files/solar-system-2d-preview.gif)
+This project is not finished and abandoned.
+
+![video](readme-files/solar-system-2d-preview.mp4)
 
 ## Running
 
