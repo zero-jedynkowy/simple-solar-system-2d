@@ -1,4 +1,4 @@
-#simple-solar-system-2d
+# simple-solar-system-2d
 
 ## Description
 
